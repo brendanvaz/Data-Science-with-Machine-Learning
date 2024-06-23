@@ -1,0 +1,6 @@
+Data Cleaning
+--------------
+
+num_private - mostly zeroes, so likely to be dropped
+amount_tsh - 70% zeroes, but important column so likely impute values
+construction_year - 35% missing values, but important column so impute using std dev
