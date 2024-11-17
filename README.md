@@ -2,7 +2,7 @@ Exploratory Evaluation of Water Pumps in Tanzania
 
 Overview
 
-This group project analyzes the operational status of water pumps in Tanzania using machine learning techniques. The study was led by Brendan Vaz, with team members collaboratively working on different aspects of the project. Leveraging the "Pump it Up: Data Mining the Water Table" dataset from the Taarifa waterpoints dashboard, this analysis provides actionable insights into pump functionality, maintenance needs, and factors influencing failures. The project evaluates multiple machine learning models to identify the best performer for predicting water pump functionality.
+This group project analyzes the operational status of water pumps in Tanzania using machine learning techniques. The study was led by me (Brendan Vaz), with team members collaboratively working on different aspects of the project. Leveraging the "Pump it Up: Data Mining the Water Table" dataset from the Taarifa waterpoints dashboard, this analysis provides actionable insights into pump functionality, maintenance needs, and factors influencing failures. The project evaluates multiple machine learning models to identify the best performer for predicting water pump functionality.
 
 Objectives
 
